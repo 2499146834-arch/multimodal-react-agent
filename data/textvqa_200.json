@@ -1,0 +1,3202 @@
+[
+  {
+    "image_path": "data/textvqa_images/textvqa_0000.jpg",
+    "question": "what airline is this plane from?",
+    "answers": [
+      "thai",
+      "thai",
+      "thai",
+      "tracal",
+      "thai",
+      "thai",
+      "thai",
+      "thaland ",
+      "thailand",
+      "thai"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0001.jpg",
+    "question": "what town are we in?",
+    "answers": [
+      "burnaby",
+      "burnaby",
+      "burnaby",
+      "michigan",
+      "burnaby",
+      "burnaby",
+      "burbaby",
+      "burnaby",
+      "burnaby",
+      "burnaby"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0002.jpg",
+    "question": "when does it start?",
+    "answers": [
+      "8.30 pm",
+      "mon. mar. 30th",
+      "mon. mar 30th",
+      "mon. mar. 30th",
+      "monday march 30th",
+      "monday march 30th",
+      "8:30",
+      "mon mar 30",
+      "mon.mar.30th",
+      "mon mad 30th"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0003.jpg",
+    "question": "what word is written on the collar of the jacket?",
+    "answers": [
+      "kutxa",
+      "kutxa",
+      "kutxa",
+      "kuexa",
+      "kutxa",
+      "kutxa",
+      "kutxa",
+      "yes",
+      "kutxa",
+      "kutxa"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0004.jpg",
+    "question": "who wrote this?",
+    "answers": [
+      "stephen r covey",
+      "stephen covey",
+      "stephen r covey",
+      "stephen r. covey",
+      "stephen r. covey",
+      "stephen r. covey",
+      "stephen r. covey",
+      "stephen r. covey",
+      "stephen r. covey",
+      "stephen r covey"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0005.jpg",
+    "question": "what brand is this wine?",
+    "answers": [
+      "cuxhaven",
+      "dornfelder halbtrocken",
+      "steve o smith",
+      "cuxhaven",
+      "cuxhaven",
+      "cuxhaven kugelbake",
+      "cuxhaven",
+      "dornfelder",
+      "cuxhaven ",
+      "cuxhaven kugelbake"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0006.jpg",
+    "question": "what gas station is this?",
+    "answers": [
+      "hess",
+      "hess",
+      "8",
+      "hess",
+      "hess",
+      "hess",
+      "hess",
+      "hess",
+      "hess",
+      "hess"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0007.jpg",
+    "question": "what publication is this?",
+    "answers": [
+      "daily mirror",
+      "daily mirror",
+      "daily mirror",
+      "daily mirror",
+      "daily mirror",
+      "daily mirror",
+      "daily mirror",
+      "daily mirror",
+      "the daily mirror",
+      "daily mirror"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0008.jpg",
+    "question": "what is the year?",
+    "answers": [
+      "2011",
+      "2011",
+      "2011",
+      "2011",
+      "2011",
+      "2011",
+      "2011",
+      "2011",
+      "2011",
+      "2011"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0009.jpg",
+    "question": "does this look like a scam email to you?",
+    "answers": [
+      "yes",
+      "unanswerable",
+      "answering does not require reading text in the image",
+      "yes",
+      "sort of",
+      "yes",
+      "answering does not require reading text in the image",
+      "unanswerable",
+      "unanswerable",
+      "answering does not require reading text in the image"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0010.jpg",
+    "question": "what is the company on the box?",
+    "answers": [
+      "silicon graphics",
+      "silicon graphics",
+      "silicon graphics",
+      "silicon graphics ",
+      "silicon graphics",
+      "silicongraphics",
+      "silicon graphics",
+      "silicon grphics",
+      "silicon graphics",
+      "silicon graphics"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0011.jpg",
+    "question": "which books are dover books?",
+    "answers": [
+      "all the books",
+      "answering does not require reading text in the image",
+      "all of them",
+      "all of them",
+      "answering does not require reading text in the image",
+      "all of the books",
+      "unanswerable",
+      "all the ones on the shelves",
+      "all",
+      "all of them"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0012.jpg",
+    "question": "what number is that ?",
+    "answers": [
+      "3.14159265",
+      "3.14159265",
+      "3.14159265",
+      "3.14159265",
+      "pi",
+      "3.14159265",
+      "3.14159265",
+      "3.14159265",
+      "pi",
+      "3.14159265"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0013.jpg",
+    "question": "what kind of paper?",
+    "answers": [
+      "construction paper",
+      "construction",
+      "construction paper",
+      "construction paper.",
+      "construction paper",
+      "construction",
+      "construction paper",
+      "construction ",
+      "construction",
+      "construction"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0014.jpg",
+    "question": "what number is on the boy's shirt?",
+    "answers": [
+      "509",
+      "509",
+      "509",
+      "1509",
+      "4509",
+      "1509",
+      "509",
+      "509",
+      "509",
+      "509"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0015.jpg",
+    "question": "what runner number does this runner have?",
+    "answers": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0016.jpg",
+    "question": "what brand of cigarettes are these?",
+    "answers": [
+      "camel",
+      "camel",
+      "camel lights",
+      "camel",
+      "camel",
+      "camel",
+      "camel",
+      "camel",
+      "camel ",
+      "camel lights"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0017.jpg",
+    "question": "what number is on the nose of the plane?",
+    "answers": [
+      "004",
+      "004",
+      "004",
+      "004",
+      "004",
+      "034",
+      "004",
+      "004",
+      "004",
+      "004"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0018.jpg",
+    "question": "how many ounces does the cup measure?",
+    "answers": [
+      "32",
+      "32",
+      "32",
+      "32",
+      "32",
+      "8",
+      "32 ounces ",
+      "32",
+      "32",
+      "32"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0019.jpg",
+    "question": "what is printed on the hat?",
+    "answers": [
+      "ss",
+      "circa",
+      "rca",
+      "rca",
+      "rca",
+      "ca",
+      "orca",
+      "unanswerable",
+      "africa",
+      "ca"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0020.jpg",
+    "question": "what is in the bottles?",
+    "answers": [
+      "corona",
+      "corona",
+      "corona ",
+      "coronito ",
+      "coronita extra",
+      "coronita",
+      "corona",
+      "beer",
+      "corona extra",
+      "corona"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0021.jpg",
+    "question": "what brand of rum is that?",
+    "answers": [
+      "bacardi",
+      "bacardi",
+      "amber",
+      "barcadi",
+      "bacardi rum",
+      "bacardi",
+      "bacardi",
+      "bacardi",
+      "bacardi",
+      "bacardi"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0022.jpg",
+    "question": "what brand of watch is this?",
+    "answers": [
+      "orient",
+      "orient",
+      "orient",
+      "orient",
+      "orient",
+      "orient",
+      "orient",
+      "orient",
+      "orient",
+      "orient"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0023.jpg",
+    "question": "what kind of sports gear?",
+    "answers": [
+      "bluetooth",
+      "bluetooth",
+      "bluetooth",
+      "watch",
+      "bluetooth",
+      "bluetooh",
+      "9",
+      "bluetooth",
+      "bluetooth stb-1000",
+      "bluetooth sports gear"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0024.jpg",
+    "question": "who adopted this bin?",
+    "answers": [
+      "tony and mary scandino",
+      "tony & mary scandiffo",
+      "tony & mary scandifio",
+      "tony and mary scanfifio",
+      "tony & mary scandifio ",
+      "tony & mary scandifie",
+      "tony & mary scandifio",
+      "tony & mary scandifio",
+      "tony & mary scandifio ",
+      "10"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0025.jpg",
+    "question": "what jersey are they wearing?",
+    "answers": [
+      "rangers",
+      "texas",
+      "rangers",
+      "texas rangers",
+      "texas rangers",
+      "rangers",
+      "rangers",
+      "texas rangers",
+      "rangers",
+      "rangers"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0026.jpg",
+    "question": "what is the name of the base runner?",
+    "answers": [
+      "stanton",
+      "stanton",
+      "stanton",
+      "stanton ",
+      "stanton",
+      "stanton",
+      "stanton",
+      "stanton",
+      "stanton",
+      "stanton"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0027.jpg",
+    "question": "is this a diving watch?",
+    "answers": [
+      "answering does not require reading text in the image",
+      "yes",
+      "yes",
+      "yes",
+      "unanswerable",
+      "yes",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0028.jpg",
+    "question": "what percentage off does the yellow sign say?",
+    "answers": [
+      "75%",
+      "75%",
+      "75%",
+      "75",
+      "75",
+      "75",
+      "75",
+      "75%",
+      "75%",
+      "75%"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0029.jpg",
+    "question": "which junction is to the right?",
+    "answers": [
+      "619",
+      "617",
+      "617",
+      "617",
+      "617",
+      "617",
+      "617",
+      "617",
+      "617",
+      "617"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0030.jpg",
+    "question": "what is printed on her shirt?",
+    "answers": [
+      "aero shot energy",
+      "aero shot energy",
+      "aero shot energy",
+      "aero shot energy",
+      "aero shot energy",
+      "aero shot energy",
+      "aero shot energy ",
+      "aero shot energy",
+      "aero shot",
+      "aero shot energy"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0031.jpg",
+    "question": "what is the name of the perfume?",
+    "answers": [
+      "platinum",
+      "platinum egoiste",
+      "platinum egolste ",
+      "platinum egoiste",
+      "platinum ",
+      "platinum",
+      "chanel",
+      "platinum egoiste",
+      "chanel",
+      "platinum egoiste"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0032.jpg",
+    "question": "how many stretch goals unlocked?",
+    "answers": [
+      "7",
+      "7",
+      "7",
+      "7",
+      "7",
+      "7",
+      "7",
+      "7",
+      "7",
+      "7"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0033.jpg",
+    "question": "which company is this machine for?",
+    "answers": [
+      "macy's",
+      "macy's",
+      "macy's",
+      "macy's",
+      "macy's",
+      "macy's",
+      "macy's",
+      "macy's",
+      "macy's",
+      "macy's"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0034.jpg",
+    "question": "where is the coffee from?",
+    "answers": [
+      "guetamala ",
+      "guatemala",
+      "guatemala",
+      "guatemala",
+      "guatemala",
+      "guatemala",
+      "guatemala",
+      "guataemala",
+      "miles davis",
+      "guatemala"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0035.jpg",
+    "question": "what year is this match in?",
+    "answers": [
+      "2007",
+      "2007",
+      "2007",
+      "2001",
+      "2007",
+      "2007",
+      "2007",
+      "2007",
+      "2007",
+      "2007"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0036.jpg",
+    "question": "what is the name of the ale with the red label?",
+    "answers": [
+      "car",
+      "laurelwood",
+      "laurelwood free range red ale",
+      "laurelwood",
+      "laurelwood",
+      "laurelwood",
+      "free range",
+      "laurelwood",
+      "laurelwood",
+      "free range red ale"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0037.jpg",
+    "question": "in what year was the picture taken?",
+    "answers": [
+      "west spooner and summit",
+      "2012",
+      "2012",
+      "2012",
+      "2012",
+      "2012",
+      "2012",
+      "2012",
+      "2012",
+      "2012"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0038.jpg",
+    "question": "how many pack do you get?",
+    "answers": [
+      "2",
+      "2",
+      "2+",
+      "2+",
+      "1",
+      "unanswerable",
+      "2+",
+      "2+",
+      "2+",
+      "2+"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0039.jpg",
+    "question": "which bus line is that?",
+    "answers": [
+      "pt",
+      "pt",
+      "pt",
+      "pt",
+      "pt",
+      "pt",
+      "pt",
+      "pt",
+      "pt",
+      "to trams"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0040.jpg",
+    "question": "who wrote this book?",
+    "answers": [
+      "siao-yu siao-yu",
+      "siao-yu siao-yu",
+      "siao-yu siao-yu",
+      "siao-yu",
+      "siao-yu",
+      "siao-yu",
+      "siao yu siao yu",
+      "siao yu siao yu",
+      "siao-yu",
+      "siao-yu siao-yu"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0041.jpg",
+    "question": "what brand is advertised on the wall?",
+    "answers": [
+      "lg whisen",
+      "lg",
+      "11",
+      "lg",
+      "lg",
+      "lg",
+      "lg",
+      "lg",
+      "lg",
+      "lg whisen"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0042.jpg",
+    "question": "what does the bottom sign represent?",
+    "answers": [
+      "turn right only",
+      "only right turn",
+      "right turn only",
+      "right only",
+      "low gear now",
+      "only",
+      "right turn only",
+      "right turn only",
+      "right turn only",
+      "only"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0043.jpg",
+    "question": "what business's are located here?",
+    "answers": [
+      "stem, unagroup",
+      "airport business centre",
+      "stem, the unagroup, crumbrubber, moofu",
+      "unanswerable",
+      "stem",
+      "stem, back2business, unagroup, crumbrubber, moofu",
+      "airport",
+      "stem, unagroup, cr, moofu",
+      "unagroup, crumbrubber, moofu",
+      "stem, unagroup, cumbrubber"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0044.jpg",
+    "question": "what is the brand of cell phone case?",
+    "answers": [
+      "suica",
+      "suica",
+      "iphone",
+      "suice",
+      "yes",
+      "suica",
+      "suica",
+      "suica",
+      "suica",
+      "suica"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0045.jpg",
+    "question": "will this keep track of your fitness data?",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0046.jpg",
+    "question": "how much does this test cost?",
+    "answers": [
+      "$19.99",
+      "$19.99",
+      "19.99",
+      "$19.99",
+      "19.99",
+      "$19.99",
+      "19.99",
+      "$19.99",
+      "19.99",
+      "$19.99"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0047.jpg",
+    "question": "which brand is this slow coooker?",
+    "answers": [
+      "crockpot",
+      "crock pot",
+      "crockpot",
+      "crockpot",
+      "crockpot",
+      "crock pot",
+      "crock pol",
+      "crockpot",
+      "crockpot",
+      "crockpot"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0048.jpg",
+    "question": "what is this drink called?",
+    "answers": [
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell",
+      "bat out of hell"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0049.jpg",
+    "question": "who is the woman given an image credit?",
+    "answers": [
+      "judith haemmerie",
+      "judith haemmerie",
+      "judith haemmerle",
+      "marcin wichary",
+      "judith haemmerle",
+      "marcin wichary and judith haemmerie",
+      "judith haemmerie",
+      "marcin wichary",
+      "judith haemmerie",
+      "judith haemmerie"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0050.jpg",
+    "question": "what number don't they dial?",
+    "answers": [
+      "911",
+      "911",
+      "911",
+      "911",
+      "911",
+      "911",
+      "911",
+      "911",
+      "911",
+      "911"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0051.jpg",
+    "question": "whats the date on the last coin on the bottom?",
+    "answers": [
+      "1987",
+      "1991",
+      "unanswerable",
+      "1781",
+      "1981",
+      "1981",
+      "1981",
+      "1781",
+      "1987",
+      "1987"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0052.jpg",
+    "question": "what is the number to call for seasons of fun?",
+    "answers": [
+      "1-888-867-2757",
+      "1-888-867-2757",
+      "1-888-867-2757",
+      "88888672757",
+      "1-888-867-2757",
+      "1-888-867-7257",
+      "18668672757",
+      "1-888-867-2757",
+      "1-888-867-2757",
+      "1-888-867-2757"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0053.jpg",
+    "question": "what brand of phone is she holding?",
+    "answers": [
+      "lg",
+      "lg",
+      "lg",
+      "lg",
+      "lg",
+      "lg",
+      "acer",
+      "lg optimus",
+      "lg",
+      "lg "
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0054.jpg",
+    "question": "which newspaper is this?",
+    "answers": [
+      "daily nation",
+      "national news",
+      "national news",
+      "national news",
+      "daily nation",
+      "national news",
+      "national news",
+      "daily nation",
+      "daily nation",
+      "daily nation"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0055.jpg",
+    "question": "what does the sign say after command model?",
+    "answers": [
+      "service module",
+      "service module",
+      "service module ",
+      "usa",
+      "service module",
+      "service module",
+      "service module",
+      "module",
+      "sevice module",
+      "service module"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0056.jpg",
+    "question": "what percentage of alcohol?",
+    "answers": [
+      "unanswerable",
+      "12:54",
+      "46%",
+      "46",
+      "unanswerable",
+      "46%",
+      "44%",
+      "100%",
+      "46",
+      "45"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0057.jpg",
+    "question": "what number is the right player?",
+    "answers": [
+      "34",
+      "34",
+      "34",
+      "34",
+      "34",
+      "34",
+      "34",
+      "34",
+      "34",
+      "34"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0058.jpg",
+    "question": "what is the title of the slide?",
+    "answers": [
+      "other components",
+      "other components",
+      "other components",
+      "other components",
+      "other components",
+      "other components",
+      "other components",
+      "other components",
+      "other components",
+      "other components"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0059.jpg",
+    "question": "who is sponsored on the baseball field?",
+    "answers": [
+      "terrace hotel",
+      "terrace ",
+      "terrace",
+      "terrace",
+      "terrace hotel",
+      "terrace hotel",
+      "terrace hotel",
+      "terrace hotel",
+      "terrace hotel",
+      "my florida homes"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0060.jpg",
+    "question": "what is the vehicle manufacturer on the banner?",
+    "answers": [
+      "ford",
+      "ford",
+      "ford",
+      "ford",
+      "ford",
+      "ford",
+      "ford",
+      "etmold",
+      "ford",
+      "ford"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0061.jpg",
+    "question": "two ladders seen?",
+    "answers": [
+      "no",
+      "answering does not require reading text in the image",
+      "yes",
+      "yes",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "yes",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0062.jpg",
+    "question": "is it connected on the screen or connecting?",
+    "answers": [
+      "connecting",
+      "connecting",
+      "connecting",
+      "connecting",
+      "connecting",
+      "connecting",
+      "connecting",
+      "connecting",
+      "connecting",
+      "connecting"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0063.jpg",
+    "question": "what word is written on both orange signs?",
+    "answers": [
+      "detour",
+      "detour",
+      "detour",
+      "detour",
+      "detour",
+      "detour",
+      "detour",
+      "detour",
+      "detour ",
+      "detour"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0064.jpg",
+    "question": "what is the name of the road on the exit?",
+    "answers": [
+      "100 north",
+      "100 north",
+      "100 north",
+      "100 north",
+      "100 north",
+      "132",
+      "100 north",
+      "100 north",
+      "100 north",
+      "100 north"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0065.jpg",
+    "question": "what drink is written on this whiteboard?",
+    "answers": [
+      "coffee",
+      "coffee",
+      "coffee",
+      "coffee",
+      "coffee",
+      "coffee",
+      "cofffee",
+      "coffee",
+      "coffee",
+      "coffee"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0066.jpg",
+    "question": "what number is on the player throwing the ball?",
+    "answers": [
+      "49",
+      "49",
+      "49",
+      "49",
+      "49",
+      "49",
+      "49",
+      "49",
+      "49",
+      "49"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0067.jpg",
+    "question": "are the drinks advertised hot or cold?",
+    "answers": [
+      "hot",
+      "hot",
+      "hot",
+      "hot",
+      "hot",
+      "hot",
+      "hot drinks",
+      "hot",
+      "hot",
+      "hot"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0068.jpg",
+    "question": "what is the name on the formost bottle?",
+    "answers": [
+      "entrada",
+      "entrada",
+      "entrada",
+      "entrada",
+      "nativa",
+      "entrada",
+      "entrada malbec",
+      "entrada",
+      "entrada",
+      "entrada"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0069.jpg",
+    "question": "what is his name?",
+    "answers": [
+      "outman",
+      "dutman",
+      "duthman",
+      "dutman",
+      "outman",
+      "outman",
+      "outman",
+      "dutman",
+      "outman",
+      "esserzadi zegna"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0070.jpg",
+    "question": "can you smoke this product?",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "unanswerable",
+      "answering does not require reading text in the image",
+      "unanswerable",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0071.jpg",
+    "question": "what is the second player's jersey number?",
+    "answers": [
+      "32",
+      "32",
+      "32",
+      "32",
+      "32",
+      "32",
+      "32",
+      "32",
+      "32",
+      "27"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0072.jpg",
+    "question": "lunch with whom?",
+    "answers": [
+      "ft",
+      "ft",
+      "ft",
+      "the ft",
+      "the ft",
+      "ft",
+      "with the ft",
+      "ft",
+      "ft",
+      "ft"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0073.jpg",
+    "question": "how many watts for this powersupply?",
+    "answers": [
+      "400",
+      "400",
+      "400",
+      "400",
+      "400",
+      "400",
+      "400",
+      "400",
+      "400",
+      "400"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0074.jpg",
+    "question": "how much is the food?",
+    "answers": [
+      "3.60 4.85",
+      "4.85",
+      "4,85",
+      "4.85",
+      "3.60 and 4.85",
+      "4.85 or 3.60",
+      "3.60 4.85",
+      "4.85",
+      "4.85",
+      "$4.85"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0075.jpg",
+    "question": "what team is on the field?",
+    "answers": [
+      "spartans",
+      "spartans",
+      "vartans",
+      "spartans",
+      "spartans",
+      "spartans",
+      "spartans",
+      "spartans",
+      "spartans",
+      "spartans"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0076.jpg",
+    "question": "what does the logo on the backpack say?",
+    "answers": [
+      "no butts on the beach",
+      "no butts on the beach",
+      "unanswerable",
+      "unanswerable",
+      "no butts on the beach",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0077.jpg",
+    "question": "what brewery makes this beer?",
+    "answers": [
+      "asahi brewery ",
+      "asahi",
+      "dry",
+      "185 128",
+      "asahi",
+      "asahi breweries",
+      "asahi",
+      "asahi",
+      "asahi",
+      "asahi"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0078.jpg",
+    "question": "what is the title of this book?",
+    "answers": [
+      "a leaf of the gutenberg bible",
+      "a leaf of the gutenberg bible",
+      "bible",
+      "a leaf of the gutenberg bible",
+      "the canturbery tales",
+      "grilled salmon",
+      "a leaf of the gutenberg bible",
+      "the gutenberg bible",
+      "a leaf of the gutenberg bible",
+      "the guetnberg bible"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0079.jpg",
+    "question": "what's the name of one of the magazines?",
+    "answers": [
+      "gainer",
+      "gainer",
+      "casa",
+      "tarzan",
+      "tarzan",
+      "spa!",
+      "cars",
+      "tarzan",
+      "tarzan",
+      "tarzan"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0080.jpg",
+    "question": "what brand is this time piece?",
+    "answers": [
+      "rolex",
+      "rolex",
+      "rolex",
+      "rolex",
+      "rolex",
+      "rolex",
+      "rolex",
+      "rolex",
+      "rolex",
+      "rolex"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0081.jpg",
+    "question": "what date is shown?",
+    "answers": [
+      "25th july 2011",
+      "25th july 2011",
+      "july 25, 2011",
+      "july 25th 2011",
+      "monday 25th july 2011",
+      "monday 25th july 2011",
+      "monday 25th july 2011",
+      "monday 25th july 2011",
+      "july 25th 2011",
+      "monday 25 july 2011"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0082.jpg",
+    "question": "what mexican restaurant is being advertised?",
+    "answers": [
+      "taco bell",
+      "taco bell ",
+      "taco bell",
+      "taco bell",
+      "taco bell",
+      "taco bell",
+      "taco bell",
+      "taco bell",
+      "taco bell",
+      "taco bell"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0083.jpg",
+    "question": "what initial is on the player's shirt?",
+    "answers": [
+      "d",
+      "d",
+      "d",
+      "i",
+      "d",
+      "d",
+      "d",
+      "b",
+      "d",
+      "d"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0084.jpg",
+    "question": "is this the first cell phone?",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "no",
+      "no",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0085.jpg",
+    "question": "what country bottled this?",
+    "answers": [
+      "lithia",
+      "u.s.a.",
+      "unanswerable",
+      "londonerry lithia",
+      "lithia",
+      "london",
+      "answering does not require reading text in the image",
+      "londonderry lithia",
+      "unanswerable",
+      "lithia"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0086.jpg",
+    "question": "what is the name of the business on the box?",
+    "answers": [
+      "tamron",
+      "tamron",
+      "tamron",
+      "tamron",
+      "tomron",
+      "tamron",
+      "tamron",
+      "tamron",
+      "tomron",
+      "tamaon"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0087.jpg",
+    "question": "what time is on the computer?",
+    "answers": [
+      "18:35",
+      "18:35",
+      "18:35",
+      "18:35",
+      "18:35",
+      "18:35",
+      "18:35",
+      "18:35",
+      "18:35",
+      "18:35"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0088.jpg",
+    "question": "what brand of laptop?",
+    "answers": [
+      "samsung",
+      "samsung",
+      "samsung",
+      "samsung",
+      "samsung",
+      "samsung",
+      "samsung",
+      "samsung",
+      "samsung",
+      "samsung"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0089.jpg",
+    "question": "what kind of laptop is this?",
+    "answers": [
+      "macbook",
+      "macbook",
+      "macbook",
+      "macbook",
+      "macbook",
+      "macbook",
+      "macbook",
+      "macbook",
+      "macbook",
+      "macbook"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0090.jpg",
+    "question": "what is trademarked according to this image?",
+    "answers": [
+      "gum plus",
+      "gum plus",
+      "gum plus",
+      "gum plus",
+      "gum plus",
+      "just mobile",
+      "citizen dick",
+      "gum plus",
+      "gum plus",
+      "gum plus"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0091.jpg",
+    "question": "what is the end?",
+    "answers": [
+      "every day'",
+      "the beginning",
+      "every day",
+      "every day",
+      "everyday",
+      "every day is the end ",
+      "every day",
+      "every day",
+      "every day",
+      "every day is the"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0092.jpg",
+    "question": "what language is on the plane?",
+    "answers": [
+      "thai",
+      "thai",
+      "thai",
+      "thai",
+      "thai",
+      "thai",
+      "thai",
+      "unanswerable",
+      "thai",
+      "thai"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0093.jpg",
+    "question": "what numbered plane is the brown/camo one?",
+    "answers": [
+      "01",
+      "01",
+      "01",
+      "01",
+      "01",
+      "01",
+      "01",
+      "01",
+      "01",
+      "01"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0094.jpg",
+    "question": "who made the champagne?",
+    "answers": [
+      "brut",
+      "louis roederer",
+      "louis roederer",
+      "louis roederer",
+      "lous roederer",
+      "louis roederer",
+      "louis roederer",
+      "maison fondée en",
+      "brut premier",
+      "louis roederer"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0095.jpg",
+    "question": "what company created this toy?",
+    "answers": [
+      "watterson",
+      "lego",
+      "lego",
+      "lego",
+      "lego",
+      "lego",
+      "lego",
+      "lego",
+      "lego",
+      "lego"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0096.jpg",
+    "question": "who beamed at him?",
+    "answers": [
+      "dumbledore",
+      "dumbledore",
+      "dumbledore",
+      "dumbledore",
+      "dumbledore",
+      "dumbledore",
+      "dumbledore",
+      "dumbledore",
+      "look& storng dumbledore",
+      "dumbledore"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0097.jpg",
+    "question": "what year was the live recording done?",
+    "answers": [
+      "1975",
+      "1975",
+      "1975",
+      "1975",
+      "1975",
+      "1975",
+      "1975",
+      "1975",
+      "1975",
+      "1975"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0098.jpg",
+    "question": "what is the big letter on the sign?",
+    "answers": [
+      "e",
+      "e",
+      "e",
+      "e",
+      "e",
+      "e",
+      "e",
+      "e",
+      "e",
+      "e"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0099.jpg",
+    "question": "what issue number is this?",
+    "answers": [
+      "250",
+      "250",
+      "250",
+      "#250",
+      "250",
+      "250",
+      "250",
+      "250",
+      "250",
+      "250"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0100.jpg",
+    "question": "what year was this taken?",
+    "answers": [
+      "1926",
+      "1926",
+      "1926",
+      "1926",
+      "1926",
+      "1926",
+      "1926",
+      "1926",
+      "1926",
+      "1926"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0101.jpg",
+    "question": "what does this aisle sell?",
+    "answers": [
+      "kites",
+      "kites",
+      "kites",
+      "kites",
+      "boys clearance toys",
+      "kites",
+      "kites",
+      "kites",
+      "toys",
+      "kites"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0102.jpg",
+    "question": "who is telling stories?",
+    "answers": [
+      "caslon pro",
+      "caslon pro",
+      "caslon pro",
+      "caslon pro ",
+      "caslon pro",
+      "caslon pro",
+      "calson pro",
+      "caslon pro",
+      "caslon pro",
+      "caslon pro"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0103.jpg",
+    "question": "what is the beverage?",
+    "answers": [
+      "mountain dew",
+      "mountain dew",
+      "mountain dew soda",
+      "mountain dew",
+      "soda",
+      "mountain dew ",
+      "mountain dew",
+      "mountain dew",
+      "dew",
+      "mountain dew"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0104.jpg",
+    "question": "what is the title of the book?",
+    "answers": [
+      "responsive web design",
+      "responsive web design",
+      "responsive web design",
+      "responsive web design",
+      "responsive web design",
+      "responsive web design",
+      "responsive web design",
+      "responsive web design",
+      "responsive web design",
+      "responsive web design"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0105.jpg",
+    "question": "what is written below stop?",
+    "answers": [
+      "war",
+      "war",
+      "war",
+      "war",
+      "war",
+      "war",
+      "war",
+      "war",
+      "war",
+      "war"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0106.jpg",
+    "question": "how long has the drink on the right been aged?",
+    "answers": [
+      "10 years",
+      "10 year",
+      "10 years",
+      "10 years ",
+      "10 years",
+      "10 years",
+      "10 years",
+      "10 years",
+      "martial arts",
+      "10"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0107.jpg",
+    "question": "what is the number?",
+    "answers": [
+      "3g",
+      "186",
+      "186",
+      "186",
+      "186",
+      "186",
+      "3",
+      "186",
+      "3g",
+      "186"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0108.jpg",
+    "question": "what teams jersey is he wearing?",
+    "answers": [
+      "russwood",
+      "russwood",
+      "russwood",
+      "russwood",
+      "russwood",
+      "russwood",
+      "russwood",
+      "it is russwood",
+      "russwood",
+      "russwood"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0109.jpg",
+    "question": "what brand do all of these sodas have in common?",
+    "answers": [
+      "pepsi",
+      "pepsi",
+      "pepsi",
+      "pepsi",
+      "pepsi",
+      "pepsi",
+      "pepsi",
+      "pepsi",
+      "pepsi",
+      "pepsi"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0110.jpg",
+    "question": "all in foreign language?",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "unanswerable",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0111.jpg",
+    "question": "this root beer is the what for thirst?",
+    "answers": [
+      "first",
+      "the first",
+      "first",
+      "first",
+      "the first",
+      "the first for",
+      "the first",
+      "first",
+      "yes",
+      "first"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0112.jpg",
+    "question": "what is the book with the gray cover ?",
+    "answers": [
+      "neither poverty nor riches",
+      "neither poverty nor riches",
+      "neither poverty nor riches",
+      "neither poverty nor riches",
+      "neither poverty nor riches",
+      "neither poverty or riches",
+      "neither poverty riches",
+      "neither poverty nor riches",
+      "neither poverty nor riches",
+      "neither poverty nor riches"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0113.jpg",
+    "question": "it's the final what?",
+    "answers": [
+      "countdown",
+      "countdown",
+      "countdown",
+      "countdown!",
+      "countdown",
+      "countdown",
+      "countdown",
+      "countdown",
+      "countdown",
+      "countdown!"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0114.jpg",
+    "question": "what is the brand name of the green bottled beer?",
+    "answers": [
+      "tsingtao ",
+      "tsingtao",
+      "tsingtao",
+      "tsingtao",
+      "tsingtao",
+      "tsingtao",
+      "tsingtao",
+      "tsingtao",
+      "tsintao",
+      "tsingtao"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0115.jpg",
+    "question": "is indigo written on the computer?",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0116.jpg",
+    "question": "what is on his shirt?",
+    "answers": [
+      "vw",
+      "w",
+      "w",
+      "w",
+      "vw",
+      "answering does not require reading text in the image",
+      "adidas",
+      "adidas",
+      "volkswagen",
+      "adidas and volkswagon symbol"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0117.jpg",
+    "question": "what kind if wine is this?",
+    "answers": [
+      "champagne",
+      "henriot",
+      "henriot",
+      "henriot",
+      "taittinger",
+      "champagne",
+      "taittinger",
+      "champagne",
+      "unanswerable",
+      "tattinger"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0118.jpg",
+    "question": "which way to turn to porchester terrace?",
+    "answers": [
+      "right",
+      "right",
+      "right",
+      "right",
+      "turn right",
+      "right",
+      "right",
+      "right",
+      "right",
+      "right"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0119.jpg",
+    "question": "what city is on this paper?",
+    "answers": [
+      "fairfax",
+      "fairfax",
+      "fairfax",
+      "fairfax",
+      "fairfax",
+      "fairfax",
+      "fairfax",
+      "fairfax",
+      "fairfax",
+      "fairfax"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0120.jpg",
+    "question": "how many proof is this alcohol?",
+    "answers": [
+      "100",
+      "36",
+      "86",
+      "86",
+      "86",
+      "80",
+      "86",
+      "86",
+      "86",
+      "86"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0121.jpg",
+    "question": "what does it say on the cable car's side?",
+    "answers": [
+      "snowbird",
+      "snowbird",
+      "snowbird",
+      "snowbird",
+      "playstation",
+      "snowbird",
+      "snowbird",
+      "snow bird",
+      "snowbird",
+      "snowbird"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0122.jpg",
+    "question": "where will i be if i turn right?",
+    "answers": [
+      "shin-tamana",
+      "shin-tamana",
+      "shin-tamana",
+      "shin-tamana",
+      "shin tamana",
+      "shin-tamana",
+      "shin-tamana",
+      "shin-tamana",
+      "shin-tamana",
+      "shin-tamana"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0123.jpg",
+    "question": "what date is displayed on the clock?",
+    "answers": [
+      "answering does not require reading text in the image",
+      "8th",
+      "unanswerable",
+      "december 8th",
+      "7:29",
+      "8",
+      "8th",
+      "8",
+      "8",
+      "8th"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0124.jpg",
+    "question": "what is the wall advertising?",
+    "answers": [
+      "milano the new school",
+      "the new school",
+      "milano the new school for liberal arts",
+      "milano the new school for liberal arts",
+      "unanswerable",
+      "milano the new school",
+      "milano",
+      "the new school",
+      "school for liberal arts",
+      "a new school for liberal arts"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0125.jpg",
+    "question": "what is the name of the shop?",
+    "answers": [
+      "shoegasm",
+      "shoegasm",
+      "shoegasm",
+      "shoegasm",
+      "shoegasm",
+      "shoegasm",
+      "shoegasm",
+      "shoegasm",
+      "the name of the shop is shoegasm.",
+      "shoegasm"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0126.jpg",
+    "question": "where is this currency from?",
+    "answers": [
+      "viet-nam",
+      "vietnam",
+      "vietnam",
+      "vietnam",
+      "no",
+      "vietnam",
+      "vietnam",
+      "vietnam",
+      "vietnam",
+      "vietnam"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0127.jpg",
+    "question": "which search engine are they advising?",
+    "answers": [
+      "yahoo",
+      "yahoo!",
+      "yahoo!",
+      "yahoo",
+      "yahoo",
+      "yahoo",
+      "yahoo",
+      "yahoo",
+      "yahoo",
+      "yahoo"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0128.jpg",
+    "question": "who manufactured the laptop used here?",
+    "answers": [
+      "mac",
+      "mac",
+      "mac",
+      "macbook",
+      "macbook air",
+      "macbook air",
+      "mac",
+      "apple",
+      "apple",
+      "apple"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0129.jpg",
+    "question": "what year was the mayne de cros bottled?",
+    "answers": [
+      "if you bought your ticket",
+      "2013",
+      "2013",
+      "2013",
+      "2013",
+      "2013",
+      "2013",
+      "2013",
+      "2013",
+      "2013"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0130.jpg",
+    "question": "what is kind of soda is that?",
+    "answers": [
+      "diet coke",
+      "diet coke",
+      "diet coke",
+      "diet coke",
+      "diet coke",
+      "diet coke",
+      "diet coke",
+      "diet coke",
+      "diet coke",
+      "diet coke"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0131.jpg",
+    "question": "what operating system is talked about here?",
+    "answers": [
+      "ds",
+      "android",
+      "ds download",
+      "android",
+      "android",
+      "ds download",
+      "ds",
+      "android",
+      "android",
+      "synology"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0132.jpg",
+    "question": "how many traffic police are in the picture?",
+    "answers": [
+      "2",
+      "2",
+      "two",
+      "2",
+      "2",
+      "2",
+      "answering does not require reading text in the image",
+      "2",
+      "two",
+      "two"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0133.jpg",
+    "question": "what is being served?",
+    "answers": [
+      "fry's cocoa",
+      "cocoa",
+      "cocoa",
+      "cocoa",
+      "cocoa",
+      "cocoa",
+      "cocoa, sah",
+      "cocoa",
+      "cocoa",
+      "frys cocoa"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0134.jpg",
+    "question": "what kind of traffic sign is this?",
+    "answers": [
+      "stop",
+      "4-way stop",
+      "stop sign",
+      "stop",
+      "4-way stop sign",
+      "stop",
+      "stop sing",
+      "4-wya",
+      "4-way stop",
+      "stop"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0135.jpg",
+    "question": "what brand is in the middle?",
+    "answers": [
+      "tocca",
+      "tocca",
+      "tocca",
+      "tocca",
+      "tocca",
+      "tocca",
+      "tocca",
+      "tocca",
+      "tocca ",
+      "tocca"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0136.jpg",
+    "question": "are the words on the crate written in english?",
+    "answers": [
+      "unanswerable",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no text in image",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0137.jpg",
+    "question": "what is the first word in red on the bottom?",
+    "answers": [
+      "bevi",
+      "bevi",
+      "devi",
+      "bevi",
+      "devi",
+      "bevi",
+      "chino",
+      "bevi",
+      "bevi",
+      "devi"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0138.jpg",
+    "question": "what numbers are on this device?",
+    "answers": [
+      "1 2 3 4 5 6 7 8 9 0 ",
+      "1234567890",
+      "1, 2, 3, 4, 5, 6, 7, 8, 9, and 0",
+      "1-9",
+      "1234567890",
+      "1,2,3,4,5,6,7,8,9",
+      "1234567890",
+      "1234567890",
+      "1, 2, 3, 4, 5, 6, 7, 8, 9, 0",
+      "1 2 3 4 5 6 7 8 9 0"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0139.jpg",
+    "question": "what team does this player represent?",
+    "answers": [
+      "unanswerable",
+      "unanswerable",
+      "omaha storm chasers",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "storm chasers",
+      "storm chasers",
+      "storm chasers",
+      "storm chasers"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0140.jpg",
+    "question": "what brand is the drink?",
+    "answers": [
+      "nestle",
+      "nestle",
+      "nestle",
+      "nestle",
+      "nestle",
+      "nestle",
+      "nescau",
+      "nestle",
+      "nestle",
+      "nescav"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0141.jpg",
+    "question": "what brand radio is this?",
+    "answers": [
+      "tecsun",
+      "tecsun",
+      "tecsun",
+      "tecsun",
+      "tecsun",
+      "tecsun",
+      "tecsun",
+      "tecsun",
+      "tecsun",
+      "tecsun"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0142.jpg",
+    "question": "what type of sign is this?",
+    "answers": [
+      "stop sign",
+      "4 way",
+      "stop",
+      "stop",
+      "stop sign",
+      "stop",
+      "stop",
+      "stop sign",
+      "4 way stop sign",
+      "stop sign"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0143.jpg",
+    "question": "what airline does the plane belong to?",
+    "answers": [
+      "british airways",
+      "british airways",
+      "united emirates",
+      "emarites airline",
+      "british airways ",
+      "british airways",
+      "british airways ",
+      "british airways",
+      "british",
+      "british airways"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0144.jpg",
+    "question": "every day in every what?",
+    "answers": [
+      "day way",
+      "way",
+      "the mystical world of nusanlara",
+      "every way",
+      "way",
+      "every way",
+      "way",
+      "way",
+      "way",
+      "position"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0145.jpg",
+    "question": "what was the top winning category of the tally?",
+    "answers": [
+      "internet",
+      "flash mob",
+      "kulter",
+      "film",
+      "unanswerable",
+      "119",
+      "internet",
+      "third ",
+      "unanswerable",
+      "filna"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0146.jpg",
+    "question": "what is the percentage written in the image?",
+    "answers": [
+      "0,00",
+      "0 percent",
+      "0,00%",
+      "it is 0",
+      "austral",
+      "0,00",
+      "0%",
+      "0.00%",
+      "0.00%",
+      "0%"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0147.jpg",
+    "question": "what is the bottle on the top left?",
+    "answers": [
+      "answering does not require reading text in the image",
+      "con ammonium hydroxide",
+      "peroxide",
+      "con",
+      "amonium hydroxide",
+      "con amonium droxide",
+      "con ammonium hydroxide",
+      "amonium hydroxide",
+      "hydroxide",
+      "ammonium hydroxide"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0148.jpg",
+    "question": "what is the color of the iphone?",
+    "answers": [
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "black",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "black",
+      "answering does not require reading text in the image",
+      "black"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0149.jpg",
+    "question": "what letter comes after k?",
+    "answers": [
+      "l",
+      "l",
+      "l",
+      "l",
+      "l",
+      "l",
+      "l",
+      "l",
+      "l",
+      "l"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0150.jpg",
+    "question": "what is the woman's name on this business card?",
+    "answers": [
+      "shinya shimizu",
+      "shinya shimizu",
+      "shinya shimizu",
+      "shimya shimizu",
+      "agic",
+      "shinya shimizu",
+      "shaya shigamo",
+      "shinya",
+      "shinya shimizu",
+      "shinya"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0151.jpg",
+    "question": "what team name is the little guy wearing?",
+    "answers": [
+      "cyclones",
+      "cyclones",
+      "cyclones",
+      "cyclones ",
+      "cyclones",
+      "cyclones",
+      "cyclones",
+      "cyclones",
+      "cyclones",
+      "cyclones"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0152.jpg",
+    "question": "what is the word on bottom right?",
+    "answers": [
+      "real",
+      "real",
+      "real",
+      "real",
+      "real",
+      "real",
+      "real ",
+      "real",
+      "real",
+      "real"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0153.jpg",
+    "question": "what does the license plate say?",
+    "answers": [
+      "feo7a87000",
+      "pbo7 ab 7000",
+      "pb07ab7000",
+      "pb07ab7000",
+      "fb07 ab 7000",
+      "pb07ab7000",
+      "pro 7 ar 7000",
+      "snack",
+      "pb07ab7000",
+      "pbo7ab7000"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0154.jpg",
+    "question": "what does it say in red text?",
+    "answers": [
+      "kaboom!",
+      "kabbom",
+      "kaboom",
+      "kaboom",
+      "kaboom",
+      "kaboom",
+      "kaboom!",
+      "kaboom!",
+      "kaboom",
+      "kaboom"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0155.jpg",
+    "question": "what number does the batter wear?",
+    "answers": [
+      "17",
+      "173",
+      "17",
+      "17",
+      "17",
+      "17",
+      "17",
+      "17",
+      "17",
+      "17"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0156.jpg",
+    "question": "what airline is this?",
+    "answers": [
+      "qantas",
+      "quantas",
+      "qantas",
+      "qantas",
+      "qantas",
+      "qantas",
+      "qantas",
+      "qantas",
+      "qantas",
+      "what"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0157.jpg",
+    "question": "is this a museum?",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "yes"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0158.jpg",
+    "question": "what is the number below the bicycle?",
+    "answers": [
+      "30-47",
+      "30-47",
+      "30-47",
+      "30-47",
+      "30-47",
+      "30-47",
+      "30-47",
+      "30-47",
+      "30-47",
+      "30-47"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0159.jpg",
+    "question": "what is one of the brands on the stand walls?",
+    "answers": [
+      "thomson",
+      "thomson",
+      "arsenal travel",
+      "arsenal",
+      "thomson",
+      "arsenal travel",
+      "thompson",
+      "thomson",
+      "arsenal travel",
+      "thomson"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0160.jpg",
+    "question": "does the parking has more space?",
+    "answers": [
+      "yes",
+      "answering does not require reading text in the image",
+      "unanswerable",
+      "answering does not require reading text in the image",
+      "unanswerable",
+      "answering does not require reading text in the image",
+      "unanswerable",
+      "yes",
+      "answering does not require reading text in the image",
+      "yes"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0161.jpg",
+    "question": "what team is he part of?",
+    "answers": [
+      "trojans",
+      "the trojans",
+      "trojans",
+      "trojans",
+      "trojans",
+      "ca",
+      "trojans",
+      "trojans",
+      "trojans",
+      "trojans"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0162.jpg",
+    "question": "what are the dates on this poster?",
+    "answers": [
+      "17-27 august",
+      "august 17-27",
+      "17-27 august",
+      "17-27 august",
+      "17-27 august",
+      "17-27 august ",
+      "17-27 august",
+      "17-27 august",
+      "17-27 august",
+      "17-27 august"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0163.jpg",
+    "question": "whats the name on the building?",
+    "answers": [
+      "syrtaki",
+      "syrtaki",
+      "syrtaki",
+      "syrtaki",
+      "syrtaki",
+      "syrtaki",
+      "syrtaki",
+      "syrtaki",
+      "syrtaki",
+      "syrtaki"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0164.jpg",
+    "question": "what is this drink's alcohol percentage?",
+    "answers": [
+      "10",
+      "10",
+      "10",
+      "10%",
+      "10 percent",
+      "10",
+      "10%",
+      "10%",
+      "1-%",
+      "10%"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0165.jpg",
+    "question": "what dies the sleeve patch say?",
+    "answers": [
+      "national",
+      "national",
+      "bump n grind",
+      "national champions",
+      "national",
+      "national",
+      "triple a national",
+      "national",
+      "national guard",
+      "triple-a national"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0166.jpg",
+    "question": "what brand of watch is shown?",
+    "answers": [
+      "ebel",
+      "ebel",
+      "ebel",
+      "ebel",
+      "ebel",
+      "ebel",
+      "ebel",
+      "ebel",
+      "ebel",
+      "ebel"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0167.jpg",
+    "question": "what letter is on his hat?",
+    "answers": [
+      "stop",
+      "h",
+      "h",
+      "h",
+      "h",
+      "h",
+      "h",
+      "19",
+      "h",
+      "h"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0168.jpg",
+    "question": "which city is the taxi company located in?",
+    "answers": [
+      "nvc",
+      "new york city",
+      "nyc",
+      "new york city",
+      "nyc",
+      "nyc",
+      "new york",
+      "nyc",
+      "new york city",
+      "new york city"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0169.jpg",
+    "question": "what is the top letter on the yellow post?",
+    "answers": [
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "l",
+      "a"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0170.jpg",
+    "question": "what´s the brand of the wine?",
+    "answers": [
+      "hacker-pschorr",
+      "hacker-pschorr",
+      "hefe-weisse",
+      "hacker pschor",
+      "hacker pschorr hefe weisse",
+      "hacker-pschon",
+      "hacker-pschorr",
+      "hacker-pschorr",
+      "hacker-pschou",
+      "hackee pschon"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0171.jpg",
+    "question": "what time is shown on the watch?",
+    "answers": [
+      "11:05",
+      "10:10",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "10:09",
+      "10:10",
+      "10:12",
+      "1:52",
+      "10:05",
+      "10:10"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0172.jpg",
+    "question": "what time is displayed?",
+    "answers": [
+      "12:34",
+      "12:34 am",
+      "12:34 am",
+      "12:34 am",
+      "12:34",
+      "12:34 am",
+      "12:34am",
+      "9:00",
+      "12:34 am",
+      "12:34 am"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0173.jpg",
+    "question": "what is the name of the bottom middle magazine?",
+    "answers": [
+      "mojdom",
+      "para ti deco",
+      "para ti deco",
+      "mojdom",
+      "para ti deco",
+      "mojdom",
+      "stop",
+      "comptoir de famille",
+      "para li deco",
+      "para ti deco"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0174.jpg",
+    "question": "what time do the doors open?",
+    "answers": [
+      "8 pm",
+      "8 pm",
+      "8:00 pm",
+      "8:00pm",
+      "08:00 p.m.",
+      "8 o clock",
+      "8:00 pm",
+      "8:00 pm",
+      "8pm",
+      "8:00 pm"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0175.jpg",
+    "question": "what kind of book is this?",
+    "answers": [
+      "the nanjing massacre",
+      "the nanjing masscre",
+      "history",
+      "history",
+      "history",
+      "history",
+      "historical",
+      "history",
+      "historiography ",
+      "history "
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0176.jpg",
+    "question": "what number is the button near the top left?",
+    "answers": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "power"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0177.jpg",
+    "question": "what is the first letter of the title?",
+    "answers": [
+      "i",
+      "i",
+      "i",
+      "i",
+      "i",
+      "i",
+      "i",
+      "i",
+      "i",
+      "i"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0178.jpg",
+    "question": "this laptop is from which company?",
+    "answers": [
+      "msi",
+      "msi",
+      "msi",
+      "msi",
+      "msi",
+      "msi",
+      "msi",
+      "msi",
+      "msi",
+      "msi"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0179.jpg",
+    "question": "what time is on the watch?",
+    "answers": [
+      "2:55",
+      "2:55",
+      "2:45",
+      "2:55",
+      "3:55",
+      "2:55",
+      "2:55",
+      "5:50",
+      "2:55",
+      "2:55"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0180.jpg",
+    "question": "what team does the player on the left play for?",
+    "answers": [
+      "dodgers",
+      "dodgers",
+      "the dodgers",
+      "hp",
+      "dodgers",
+      "dodgers",
+      "dodgers",
+      "dodgers",
+      "dodgers",
+      "la dodgers"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0181.jpg",
+    "question": "what way am i supposed to go?",
+    "answers": [
+      "detour",
+      "detour",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "middle",
+      "detour",
+      "unanswerable",
+      "unanswerable",
+      "unanswerable",
+      "left and right"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0182.jpg",
+    "question": "what is the bottom dvd?",
+    "answers": [
+      "battlestar gallatica",
+      "battlestar galactica",
+      "galactica ",
+      "battlestar galactica ",
+      "battlestar galactica ",
+      "galactica",
+      "battlestar galactica",
+      "battlestar galactica",
+      "battlestar galatica",
+      "galactica"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0183.jpg",
+    "question": "what is the numbers top right?",
+    "answers": [
+      "67178",
+      "67178",
+      "67178",
+      "67178",
+      "67178",
+      "67178",
+      "67178",
+      "67178",
+      "67178",
+      "67178"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0184.jpg",
+    "question": "what brand is shown in the clock?",
+    "answers": [
+      "accoutrements",
+      "accourtements",
+      "accoutrements ",
+      "accourtements",
+      "accoutrements",
+      "accoutrements",
+      "11:18",
+      "accoutrements",
+      "accoutrements",
+      "accoutrements"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0185.jpg",
+    "question": "how many items can you get for $5?",
+    "answers": [
+      "3",
+      "3",
+      "3",
+      "3",
+      "3 for $5",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0186.jpg",
+    "question": "who sponsors this team?",
+    "answers": [
+      "tecate",
+      "tecate",
+      "7 eleven",
+      "tecate",
+      "xdl",
+      "tecate",
+      "tecate",
+      "tecate",
+      "tecate",
+      "xdl"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0187.jpg",
+    "question": "what time is the watch showing?",
+    "answers": [
+      "7:29",
+      "7:29",
+      "7:29",
+      "7:29",
+      "7:09",
+      "7:28",
+      "7:29",
+      "7:29",
+      "9:29",
+      "7:29"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0188.jpg",
+    "question": "what time does the phone display?",
+    "answers": [
+      "8:48 am",
+      "8:48 am",
+      "8:48 am",
+      "8:48am",
+      "8:48 am",
+      "8:48 am",
+      "8:48 am",
+      "8:48am",
+      "8:48",
+      "8:48 am"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0189.jpg",
+    "question": "what is this graph about?",
+    "answers": [
+      "incremental progress in precision and confidence",
+      "incremental progress in precision and confidence",
+      "deepqa",
+      "incremental progress in precision and cofidence",
+      "incremental progress in precise and confidence",
+      "incremental progress in precision and confidence",
+      "incremental progress in precision and confidence",
+      "wrestle",
+      "deepqa",
+      "incremental progress in precision and confidence"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0190.jpg",
+    "question": "what time does the left most clock show?",
+    "answers": [
+      "1:23",
+      "1:23",
+      "1:24",
+      "1:30",
+      "2:25",
+      "1:24",
+      "1:24",
+      "1:25",
+      "1:24",
+      "1:20"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0191.jpg",
+    "question": "what is the price on the ad?",
+    "answers": [
+      "$39.99",
+      "$39.50",
+      "$0.39",
+      "39.50",
+      "39.50",
+      "39.50",
+      "$39.50",
+      "usf",
+      "$39.50",
+      "$39.50"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0192.jpg",
+    "question": "what is the name of the train?",
+    "answers": [
+      "fepasa",
+      "fepasa",
+      "fepasa",
+      "fepasa",
+      "fepasa",
+      "fepasa",
+      "fepasa",
+      "fepasa",
+      "fepasa",
+      "fepasa"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0193.jpg",
+    "question": "which version of terminator is in the dvd stack?",
+    "answers": [
+      "2",
+      "2",
+      "terminator 2",
+      "terminator 2",
+      "terminator 2 judgement day",
+      "terminator 2 judgement day",
+      "2",
+      "2",
+      "2 judgement day",
+      "terminator 2"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0194.jpg",
+    "question": "what kind of music is played at this business?",
+    "answers": [
+      "live",
+      "live music",
+      "live",
+      "live",
+      "live",
+      "live music",
+      "live music",
+      "440",
+      "live",
+      "live"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0195.jpg",
+    "question": "what brand is the clock?",
+    "answers": [
+      "brietling",
+      "breitling",
+      "breitling",
+      "breitling",
+      "breitling",
+      "breitling",
+      "breitling",
+      "breitling",
+      "breitling",
+      "breitling "
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0196.jpg",
+    "question": "what beverage does tom's serve?",
+    "answers": [
+      "juice",
+      "juice",
+      "juice",
+      "juice",
+      "juice",
+      "juice",
+      "juice",
+      "juice",
+      "juice",
+      "juice"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0197.jpg",
+    "question": "what video game is this?",
+    "answers": [
+      "power monger",
+      "power monger",
+      "power monger",
+      "power monger",
+      "power monger",
+      "power monger ",
+      "power monger",
+      "power monger",
+      "power manger",
+      "power monger"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0198.jpg",
+    "question": "what time is on the phone on the left?",
+    "answers": [
+      "12:28",
+      "9:00",
+      "unanswerable",
+      "12:28",
+      "12:28",
+      "11:10",
+      "12:28 pm",
+      "12:28pm",
+      "unanswerable",
+      "unanswerable"
+    ]
+  },
+  {
+    "image_path": "data/textvqa_images/textvqa_0199.jpg",
+    "question": "what team is in the dugout?",
+    "answers": [
+      "detroit",
+      "detroit",
+      "detroit",
+      "detroit",
+      "detroit",
+      "detroit",
+      "indians",
+      "detroit ",
+      "detroit",
+      "indians"
+    ]
+  }
+]

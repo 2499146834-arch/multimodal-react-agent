@@ -1,0 +1,75 @@
+[
+  {
+    "image_path": "data/images/ocr_sign.jpg",
+    "question": "What text is written in this image? Extract and read all visible text.",
+    "expected_tools": [
+      "ocr"
+    ]
+  },
+  {
+    "image_path": "data/images/ocr_notice.jpg",
+    "question": "Please read and transcribe all the text visible in this image.",
+    "expected_tools": [
+      "ocr"
+    ]
+  },
+  {
+    "image_path": "data/images/ocr_label.jpg",
+    "question": "Extract all text content from this image using OCR.",
+    "expected_tools": [
+      "ocr"
+    ]
+  },
+  {
+    "image_path": "data/images/detect_street.jpg",
+    "question": "What objects can you detect in this street scene?",
+    "expected_tools": [
+      "detect"
+    ]
+  },
+  {
+    "image_path": "data/images/detect_park.jpg",
+    "question": "List all detectable objects in this park image.",
+    "expected_tools": [
+      "detect"
+    ]
+  },
+  {
+    "image_path": "data/images/detect_room.jpg",
+    "question": "Detect and name all objects visible in this room.",
+    "expected_tools": [
+      "detect"
+    ]
+  },
+  {
+    "image_path": "data/images/detect_animals.jpg",
+    "question": "What animals or objects can you find in this image?",
+    "expected_tools": [
+      "detect"
+    ]
+  },
+  {
+    "image_path": "data/images/search_landmark.jpg",
+    "question": "Identify this landmark and provide key facts about its history and significance.",
+    "expected_tools": [
+      "search",
+      "vlm"
+    ]
+  },
+  {
+    "image_path": "data/images/search_monument.jpg",
+    "question": "What is this ancient structure? Provide historical context and interesting facts.",
+    "expected_tools": [
+      "search",
+      "vlm"
+    ]
+  },
+  {
+    "image_path": "data/images/search_animal.jpg",
+    "question": "What species is this animal? Tell me about its habitat and conservation status.",
+    "expected_tools": [
+      "search",
+      "vlm"
+    ]
+  }
+]
