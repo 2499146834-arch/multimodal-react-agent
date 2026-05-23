@@ -2,6 +2,8 @@
 
 A multimodal ReAct (Reasoning + Acting) agent that autonomously selects and chains tools — **OCR** (EasyOCR), **Object Detection** (YOLOv8n), **Vision-Language Model** (Claude), and **Knowledge Search** (Claude) — to answer questions about images.
 
+**Demo Video**: [Watch on YouTube](https://youtu.be/3E7Ggibc5NY)
+
 ## Features
 
 - **Autonomous tool selection** — Agent decides whether to OCR, detect objects, query VLM, or search knowledge at each step
